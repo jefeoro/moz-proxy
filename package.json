@@ -1,0 +1,11 @@
+{
+  "name": "moz-proxy",
+  "version": "1.0.0",
+  "description": "Proxy para MOZ API",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "devDependencies": {
+    "vercel": "latest"
+  }
+}
